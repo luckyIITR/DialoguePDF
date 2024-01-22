@@ -1,1 +1,1 @@
-# RAG_PDF_Chat
+# DialoguePDF : AI-powered Chat Interface for PDFs
