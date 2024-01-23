@@ -1,3 +1,13 @@
 notebook
 numpy
+numpy
+matplotlib
+python-box
+pyYAML
+ensure
+types-PyYAML
+google-cloud-storage
+python-jose[cryptography]
+passlib
+python-multipart
 -e .
